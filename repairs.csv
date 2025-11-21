@@ -1,3 +1,0 @@
-Server,Parent fleet,Fleet number,Issue,Priority,Tech Support check,Status
-Server-A1,Fleet-Alpha,FA-001,Overheating in CPU module - needs inspection and potential replacement of thermal paste and fan assembly.,1,Yes,New
-Server-B3,Fleet-Beta,FB-221,"Intermittent power drop under load, suspected PSU issue.",2,No,Incomplete
