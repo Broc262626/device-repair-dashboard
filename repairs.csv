@@ -1,0 +1,3 @@
+Server,Parent fleet,Fleet number,Registration,Issue,Priority,Comments,Status
+Server-A1,Fleet-Alpha,FA-001,REG-9841,Overheating,High,Requires immediate inspection,In Progress
+Server-B2,Fleet-Beta,FB-014,REG-4420,Disk failure,Medium,Replacement disk ordered,Waiting for Parts
