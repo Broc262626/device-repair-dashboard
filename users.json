@@ -1,0 +1,6 @@
+{
+  "admin": {
+    "salt": "abc123",
+    "password_hash": "1acfdd61c985d8df8285b8342491a8a7497b82bfe5b1ec17c7a2a237f63dc9c3"
+  }
+}
